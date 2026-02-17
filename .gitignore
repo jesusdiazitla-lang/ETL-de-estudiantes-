@@ -1,0 +1,14 @@
+# Visual Studio 
+.vs/ 
+*.user 
+*.suo 
+ 
+# Build folders 
+bin/ 
+obj/ 
+ 
+# SSIS user files 
+*.dtproj.user 
+ 
+# Logs 
+*.log 
